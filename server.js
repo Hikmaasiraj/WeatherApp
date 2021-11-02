@@ -1,3 +1,8 @@
+//Name: Himat
+//Class CSI 250
+//Date: 11/1/21
+//Assignment: Midterm
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const  request = require('request');
